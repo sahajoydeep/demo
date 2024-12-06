@@ -1,16 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <h2>Joy's Website</h2>
-      <p>My name is Joydeep saha, I am computer science student at BITS-Pilani, and I am recording this video to demonstrate
-        how to deploy react webpage to a webserver for free
-      </p>
-
-    </div>
-  );
-}
-
-export default App;
+version https://git-lfs.github.com/spec/v1
+oid sha256:18e0bad21d3c64060b5316ea1a6e946cbf270cf614c1161434b83ed58c1a9044
+size 371
